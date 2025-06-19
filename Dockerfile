@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/betingrich4/Mercedes/fork
+RUN git clone https://github.com/Dark-Montero/Mercedes/tree/main
 
 WORKDIR /root/JawadIK
 
